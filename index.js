@@ -4,9 +4,9 @@ const birthdayText = document.getElementById("birthdayText");
 const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
-  "Chúc bận Thư một tuổi mới thật nhiều niềm, sức phẻ và thành công! 🥳",
-  "Học kỳ tới chúc bận điểm cao ngất ngưởng, học bổng bay vào tay như crush fall vì bận 😎✨",
-  "Mong bận có một ngày sinh nhật vui hết cỡ, quà ngập tràn, bài vở né pé ra để bận chill chill 🎁🎉"
+  "Chúc bro tuổi mới full niềm vui, full máu, full thành công luôn 🥳🔥",
+  "Học kỳ tới auto điểm cao, học bổng bay vào tay 😎✨",
+  "Sinh nhật thì quẩy banh nóc, quà nhận không kịp đếm, deadline tự né ra cho bro chill tẹt ga 🎁🎉"
 ];
 
 giftBox.addEventListener('click', () => {
